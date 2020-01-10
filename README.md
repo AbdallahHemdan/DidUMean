@@ -1,10 +1,16 @@
-# 🚀 DidUMean
----------------
+<h3 align="center">Did U Mean</h3>
+
+<div align="center">
+  
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/stargazers)
 [![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/blob/master/LICENSE)
 
+</div>
+
+# 🚀 DidUMean
+---------------
 - <b>DidUMean</b>  is a Spelling Checker Application Checks Your Spelling 
 - If it is Corrent , then it'll Congratulate you 👏😄
 - else it'll Recommend Words Based on levenshtein distance (Edit Distance) technique and using ```Trie Data Sructure```...
