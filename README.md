@@ -1,7 +1,8 @@
-<h3 align="center">Did U Mean</h3>
+<h3 align="center">Did U Mean ❔</h3>
 
 <div align="center">
-  
+
+[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/contributors)
 [![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/issues)
 [![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/network)
 [![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/DidUMean)](https://github.com/AbdallahHemdan/DidUMean/stargazers)
