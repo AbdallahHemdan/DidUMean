@@ -1,4 +1,9 @@
-<h3 align="center">Did U Mean ❔</h3>
+<div align="center">
+  
+<img src="https://github.com/AbdallahHemdan/DidUMean/blob/master/Result/DidUMean.png" alt="did u mean image">
+
+</div>
+
 
 <div align="center">
 
