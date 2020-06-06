@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://github.com/AbdallahHemdan/DidUMean/blob/master/Result/DidUMean.png" alt="did u mean image">
+![Did you mean](https://user-images.githubusercontent.com/40190772/83947173-c1f41580-a815-11ea-89b7-4c9283fe81ce.png)
 
 </div>
 
